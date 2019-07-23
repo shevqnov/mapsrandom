@@ -9,6 +9,10 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.3",
-    "typescript": "^3.5.3"
+    "typescript": "^3.5.3",
+    "@types/faker": "^4.1.5"
+  },
+  "dependencies": {
+    "faker": "^4.1.0"
   }
 }
